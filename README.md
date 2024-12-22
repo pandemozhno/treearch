@@ -11,7 +11,7 @@ Any interface can simplify to resource value and has principles of accessibility
     кора - ``<head></head>``
     ствол - ``<body></body>``
       ветвь - ``<component></component>``
-      лист - ``<div></div>`` более простой компонент
+      лист - ``<basic-component></basic-component>``
 </code>
     Продолжая аллегорию дерева мы можем понять архитектуру.
 
