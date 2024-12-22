@@ -7,7 +7,7 @@ Any interface can simplify to resource value and has principles of accessibility
 Представим HTML DOM как Дерево, тогда
 
 <code>
-  корни - ``<html></html>``
+  корни - `<html></html>`
     кора - ``<head></head>``
     ствол - ``<body></body>``
       ветвь - ``<component></component>``
