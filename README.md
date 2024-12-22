@@ -19,10 +19,6 @@ Any interface can simplify to resource value and has principles of accessibility
 Connector - api list
   timeout checker - hightload detector or internet throughput.
 
-Ramus - function of resource
-  frondage component - basic elements of components
-
-
 
 
 
