@@ -6,13 +6,13 @@ Any interface can simplify to resource value and has principles of accessibility
 
 
 Представим HTML DOM как Дерево, тогда 
-[code]
+<code>
   корни - <html></html>
     кора - <head></head>
     ствол - <body></body>
       ветвь - <component></component>
       лист - <div></div> более простой компонент
-[/code]
+</code>
     Продолжая аллегорию дерева мы можем понять архитектуру.
 
 
