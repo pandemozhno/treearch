@@ -5,7 +5,6 @@ Hightload & Accessibility "Topol"
 Any interface can simplify to resource value and has principles of accessibility.
 
 Представим HTML DOM как Дерево, тогда 
-
 <code>
   корни - ``<html></html>``
     кора - ``<head></head>``
@@ -13,7 +12,6 @@ Any interface can simplify to resource value and has principles of accessibility
       ветвь - ``<component></component>``
       лист - ``<basic-component></basic-component>``
 </code>
-
     Продолжая аллегорию дерева мы можем понять архитектуру.
 
 Connector - api list
