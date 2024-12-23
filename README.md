@@ -1,5 +1,7 @@
 # Interface Architecture Manifest
 
+Во Имя Аллаха Милостевого Милосердного
+
 Hightload & Accessibility "TopolM"
 
 Any interface can simplify to resource value and has principles of accessibility.
