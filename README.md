@@ -24,6 +24,18 @@ Connector - api list
   timeout checker - hightload detector or internet throughput.
 
 
+Пример vuejs архитектуры 
+
+- roots (api list to backend)
+    - index.js
+- copillars (store pinia/vuex)
+- branches (components)
+    - twigs (basic components)
+- bark (pages)
+- trunk (layouts)
+
+Архитектурное естествознание систем помогает проведенной аналогией осознать взаимодействие подсистем в приложениях.
+Не абстрактные слои, понятия, я органичная система в которой отраженно взаимодействие частей.
 
 
 
