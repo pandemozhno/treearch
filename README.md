@@ -15,6 +15,8 @@ Any interface can simplify to resource value and has principles of accessibility
 лист - ``<basic-component></basic-component>``
 </code>
 Продолжая аллегорию дерева мы можем понять архитектуру.
+Так напрмиер кольца - это store
+Копиляры - context react
 
 Connector - api list
   timeout checker - hightload detector or internet throughput.
