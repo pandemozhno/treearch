@@ -1,6 +1,6 @@
 # Interface Architecture Manifest
 
-Hightload & Accessibility "Topol"
+Hightload & Accessibility "TopolM"
 
 Any interface can simplify to resource value and has principles of accessibility.
 
