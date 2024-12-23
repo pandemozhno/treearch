@@ -2,7 +2,7 @@
 
 Во Имя Аллаха Милостевого Милосердного
 
-Hightload & Accessibility "TopolM"
+Hightload and/or Accessibility "TopolM"
 
 Any interface can simplify to resource value and has principles of accessibility.
 
