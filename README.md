@@ -6,6 +6,7 @@ Hightload and/or Accessibility "TopolM"
 
 Any interface can simplify to resource value and has principles of accessibility.
 
+Первичный пример.
 Представим HTML DOM как Дерево, тогда
 <code>
 корни - ``<html></html>``
@@ -14,7 +15,7 @@ Any interface can simplify to resource value and has principles of accessibility
 ветвь - ``<component></component>``
 лист - ``<basic-component></basic-component>``
 </code>
-Продолжая аллегорию дерева мы можем понять архитектуру.
+Продолжая аллегорию дерева мы можем понять архитектуру. 
 Так например кольца - это store.
 Копиляры - context react
 
