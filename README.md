@@ -7,24 +7,7 @@ Hightload and/or Accessibility
 
 Any interface can simplify to resource value and has principles of accessibility.
 
-Первичный пример.
-Представим HTML DOM как Дерево, тогда
-<code>
-корни - ``<html></html>``
-кора - ``<head></head>``
-ствол - ``<body></body>``
-ветвь - ``<component></component>``
-лист - ``<basic-component></basic-component>``
-</code>
-Продолжая аллегорию дерева мы можем понять архитектуру. 
-Так например кольца - это store.
-Копиляры - context react
-
-Connector - api list
-  timeout checker - hightload detector or internet throughput.
-
-
-Пример vuejs архитектуры 
+Пример vuejs tree архитектуры 
 
 - roots (api list to backend)
     - index.js
@@ -34,9 +17,14 @@ Connector - api list
 - bark (pages)
 - trunk (layouts)
 
+Продолжая аллегорию дерева мы можем понять архитектуру. 
+
+- [x] легкое расширение функционала приложения;
+- [x] безболезненное внесение изменений в существующий функционал;
+- [x] унифицированная структура приложения;
+- [x] быстрый onboarding новых разработчиков на проект;
+- [x] понятный и прозрачный код;
+- [x] всегда понятно где в структуре файлов расположить ту или иную функциональность.
+
 Архитектурное естествознание систем помогает проведенной аналогией осознать взаимодействие подсистем в приложениях.
 Не абстрактные слои, понятия, я органичная система в которой отраженно взаимодействие частей.
-
-
-
-
