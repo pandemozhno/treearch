@@ -56,3 +56,4 @@ Any interface can simplify to resource value and has principles of accessibility
 ├── package.json
 └── tsconfig.json
 ```
+Продолжая аллегорию дерева можн орасширять архитектуру.
