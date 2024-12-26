@@ -7,17 +7,7 @@ Hightload and/or Accessibility version "Topol"
 
 Any interface can simplify to resource value and has principles of accessibility.
 
-Пример vuejs tree архитектуры 
 
-- roots (api list to backend)
-    - index.js
-- copillars (store pinia/vuex)
-- branches (components)
-    - twigs (basic components)
-- bark (pages)
-- trunk (layouts)
-
-Продолжая аллегорию дерева мы можем понять архитектуру. 
 
 - [x] легкое расширение функционала приложения;
 - [x] безболезненное внесение изменений в существующий функционал;
@@ -44,7 +34,7 @@ Any interface can simplify to resource value and has principles of accessibility
 
 Проанализировав аллегорию дерева и абстрагировав его части мы можем обобщить во едино архитектуру:
 
-Представим структуру папок для проекта на vue:
+Пример для проекта на vue:
 
 <code>
 ├── tree (src)
