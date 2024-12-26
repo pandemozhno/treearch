@@ -3,11 +3,11 @@
 
 Во Имя Аллаха Милостевого Милосердного
 
+Основано на HTML DOM, FSD, Atomic Design
 
 Hightload and/or Accessibility version "Kiparis"
 
 Any interface can simplify to resource value and has principles of accessibility.
-
 
 
 - [x] легкое расширение функционала приложения;
@@ -16,6 +16,8 @@ Any interface can simplify to resource value and has principles of accessibility
 - [x] быстрый onboarding новых разработчиков на проект;
 - [x] понятный и прозрачный код (DRY, KISS);
 - [x] всегда понятно где в структуре файлов расположить ту или иную функциональность;
+
+
 
 Архитектурное естествознание систем помогает проведенной аналогией осознать взаимодействие подсистем в приложениях.
 Не абстрактные слои, понятия, а органичная структура в которой отраженно взаимодействие частей.
