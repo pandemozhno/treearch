@@ -61,23 +61,23 @@ Any interface can simplify to resource value and has principles of accessibility
 Проанализировав аллегорию дерева и абстрагировав его части мы можем обобщить во едино архитектуру
 у нас получается 3 слоя ответственности
 
-Представим структуру папок
+Представим структуру папок для проекта на vue
 <code>
 ├── tree (src)
 │   ├── crown
-│   │   ├── pages
-│   │   ├── router
+│   │   ├── foliage (pages)
 │   │   ├── branches (components)
 │   │   │   ├── branches (basic)
 │   │   │   ├── branches (composite)
 │   ├── roots
 │   │   ├── api
+│   │   ├── router
 │   ├── trunk
 │   │   ├── store
 │   │   ├── localstorage
+│   │   ├── libs
 │   │   ├── styles
 │   │   ├── assets
-│   │   ├── libs
 ├── main.js
 ├── package.json
 └── tsconfig.json
