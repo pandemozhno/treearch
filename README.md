@@ -36,7 +36,7 @@ Any interface can simplify to resource value and has principles of accessibility
 
 Пример для проекта на vue:
 
-<code>
+```md
 ├── tree (src)
 │   ├── crown(view)
 │   │   ├── foliage (pages)
@@ -55,4 +55,4 @@ Any interface can simplify to resource value and has principles of accessibility
 ├── main.js
 ├── package.json
 └── tsconfig.json
-</code>
+```
