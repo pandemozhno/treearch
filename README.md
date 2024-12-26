@@ -3,7 +3,7 @@
 Во Имя Аллаха Милостевого Милосердного
 
 
-Hightload and/or Accessibility version "Topol"
+Hightload and/or Accessibility version "Kiparis"
 
 Any interface can simplify to resource value and has principles of accessibility.
 
