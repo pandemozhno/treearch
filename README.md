@@ -38,17 +38,17 @@ Any interface can simplify to resource value and has principles of accessibility
 
 <code>
 ├── tree (src)
-│   ├── crown
+│   ├── crown(view)
 │   │   ├── foliage (pages)
 │   │   ├── flowers (styles)
 │   │   ├── fruits (assets, fonts)
 │   │   ├── branches (components)
 │   │   │   ├── branches (basic)
 │   │   │   ├── branches (composite)
-│   ├── roots
+│   ├── roots(core)
 │   │   ├── api
 │   │   ├── router
-│   ├── trunk
+│   ├── trunk(libs)
 │   │   ├── store
 │   │   ├── localstorage
 │   │   ├── libs
