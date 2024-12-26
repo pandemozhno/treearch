@@ -47,8 +47,8 @@ Any interface can simplify to resource value and has principles of accessibility
 │   │   │   ├── branches (basic)
 │   │   │   ├── branches (composite)
 │   ├── roots(core)
-│   │   ├── api
-│   │   ├── router
+│   │   ├── vendor.js
+│   │   ├── router.js
 │   ├── trunk(libs)
 │   │   ├── store
 │   │   ├── localstorage
@@ -58,3 +58,31 @@ Any interface can simplify to resource value and has principles of accessibility
 └── tsconfig.json
 ```
 Продолжая аллегорию дерева можно расширять архитектуру.
+
+
+### Пример для проекта на react:
+
+```md
+├── src
+│   ├── view
+│   │   ├── pages
+│   │   ├── assets
+│   │   ├── components
+│   │   │   ├── input
+│   │   │   │   ├── index.jsx
+│   │   │   │   ├── input-date
+│   │   │   │   │   └── index.jsx
+│   │   │   ├── button
+│   │   │   │   ├── index.jsx
+│   │   │   │   ├── button-upload
+│   │   │   │   │   └── index.jsx
+│   ├── core
+│   │   ├── vendor.jsx
+│   │   ├── router.jsx
+│   ├── libs
+│   │   ├── store
+│   │   ├── utils
+├── main.js
+├── package.json
+└── tsconfig.json
+```
