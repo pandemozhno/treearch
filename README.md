@@ -50,6 +50,8 @@ Any interface can simplify to resource value and has principles of accessibility
 ├── tree (src)
 │   ├── crown
 │   │   ├── foliage (pages)
+│   │   ├── flowers (styles)
+│   │   ├── fruits (assets, fonts)
 │   │   ├── branches (components)
 │   │   │   ├── branches (basic)
 │   │   │   ├── branches (composite)
@@ -60,8 +62,6 @@ Any interface can simplify to resource value and has principles of accessibility
 │   │   ├── store
 │   │   ├── localstorage
 │   │   ├── libs
-│   │   ├── styles
-│   │   ├── assets
 ├── main.js
 ├── package.json
 └── tsconfig.json
