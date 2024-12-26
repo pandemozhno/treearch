@@ -62,7 +62,7 @@ Any interface can simplify to resource value and has principles of accessibility
 у нас получается 3 слоя ответственности
 
 Представим структуру папок
-
+<code>
 ├── tree (src)
 │   ├── crown
 │   │   ├── pages
@@ -81,6 +81,4 @@ Any interface can simplify to resource value and has principles of accessibility
 ├── main.js
 ├── package.json
 └── tsconfig.json
-
-
-
+</code>
