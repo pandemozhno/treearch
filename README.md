@@ -51,7 +51,7 @@ Any interface can simplify to resource value and has principles of accessibility
 │   ├── trunk(libs)
 │   │   ├── store
 │   │   ├── localstorage
-│   │   ├── libs
+│   │   ├── composables (context react)
 ├── main.js
 ├── package.json
 └── tsconfig.json
