@@ -1,9 +1,9 @@
 # Tree Architecture Manifest
 
 Во Имя Аллаха Милостевого Милосердного
-version "Topol"
 
-Hightload and/or Accessibility 
+
+Hightload and/or Accessibility version "Topol"
 
 Any interface can simplify to resource value and has principles of accessibility.
 
