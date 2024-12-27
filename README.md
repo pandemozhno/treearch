@@ -16,7 +16,6 @@ Any interface can simplify to resource value and has principles of accessibility
 - [x] Поддержка DRY, KISS, etc.;
 - [x] Прексказуемое расположение функциональности;
 
-Естествознание систем помогает проведенной аналогией осознать взаимодействие подсистем в приложениях.
 Не абстрактные слои, понятия, а органичная структура понятная с детства - в которой отраженно взаимодействие частей.
 
 Давайте разберём строение дерева, основные части:
@@ -60,7 +59,7 @@ Any interface can simplify to resource value and has principles of accessibility
 ### Пример для проекта на vue:
 
 ```md
-├── tree (src)
+├── src
 │   ├── view
 │   │   ├── pages
 │   │   ├── assets
