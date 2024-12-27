@@ -1,5 +1,5 @@
 بِسْمِ اللهِ في أَوَّلِهِ وَآخِـرِه
-# Tree Architecture Manifest
+# Tree Architecture Specification
 
 Во Имя Аллаха Милостевого Милосердного
 
@@ -37,30 +37,54 @@ Any interface can simplify to resource value and has principles of accessibility
 
 ##### Проанализировав аллегорию дерева и абстрагировав его части мы можем обобщить во едино архитектуру:
 
+### Пример абстрактного проекта:
+```md
+├── tree
+│   ├── crown
+│   │   ├── foliage
+│   │   ├── flowers
+│   │   ├── fruits
+│   │   ├── branches
+│   │   │   ├── branches
+│   │   │   │   └── bud.jsx
+│   │   │   ├── branches
+│   │   │   │   └── bud.jsx
+│   ├── roots(core)
+│   │   ├── file.js
+│   │   └── file.js
+│   ├── trunk
+│   │   ├── rings
+│   │   ├── bark
+│   │   └── cork
+├── main.js
+└── package.json
+```
+Структура вариативна, расширяема. 
+
 ### Пример для проекта на vue:
 
 ```md
 ├── tree (src)
-│   ├── crown(view)
-│   │   ├── foliage (pages)
-│   │   ├── flowers (styles)
-│   │   ├── fruits (assets, fonts)
-│   │   ├── branches (components)
-│   │   │   ├── branches (basic)
-│   │   │   ├── branches (composite)
-│   ├── roots(core)
+│   ├── view
+│   │   ├── pages
+│   │   ├── assets
+│   │   ├── components
+│   │   │   ├── basic
+│   │   │   │   ├── cButton.vue
+│   │   │   │   └── cInput.vue
+│   │   │   ├── composite
+│   │   │   │   └── cUploadFile.vue
+│   ├── roots
 │   │   ├── vendor.js
 │   │   ├── router.js
-│   ├── trunk(libs)
+│   ├── trunk
 │   │   ├── store
-│   │   ├── localstorage
-│   │   ├── composables (context react)
+│   │   └── composables
 ├── main.js
 ├── package.json
 └── tsconfig.json
 ```
 Продолжая аллегорию дерева можно расширять архитектуру.
-
 
 ### Пример для проекта на react:
 
@@ -77,6 +101,8 @@ Any interface can simplify to resource value and has principles of accessibility
 │   │   │   ├── button
 │   │   │   │   ├── index.jsx
 │   │   │   │   ├── button-upload
+│   │   │   │   │   └── index.jsx
+│   │   │   │   ├── button-download
 │   │   │   │   │   └── index.jsx
 │   ├── core
 │   │   ├── vendor.jsx
