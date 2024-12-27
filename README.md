@@ -44,7 +44,7 @@ Any interface can simplify to resource value and has principles of accessibility
 │   │   │   │   └── bud.jsx
 │   │   │   ├── branches
 │   │   │   │   └── bud.jsx
-│   ├── roots(core)
+│   ├── roots
 │   │   ├── file.js
 │   │   └── file.js
 │   ├── trunk
