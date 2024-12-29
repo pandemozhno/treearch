@@ -45,8 +45,8 @@ Any interface can simplify to resource value and has principles of accessibility
 │   │   │   ├── branches
 │   │   │   │   └── bud.jsx
 │   ├── roots
-│   │   ├── file.js
-│   │   └── file.js
+│   │   ├── root
+│   │   └── root
 │   ├── trunk
 │   │   ├── rings
 │   │   ├── bark
