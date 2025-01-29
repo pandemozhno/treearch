@@ -5,7 +5,7 @@
 
 Основано на HTML DOM, FSD, Atomic Design
 
-version "Kiparis"
+
 
 Any interface can simplify to resource value and has principles of accessibility.
 
